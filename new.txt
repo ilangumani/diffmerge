@@ -1,3 +1,5 @@
 diff1
 diff2
 diff3
+diff for staging
+diff for work and commit area
