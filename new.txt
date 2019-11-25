@@ -10,3 +10,4 @@ diff btw commits
 diff btw commits 1
 diff btw local and remote 1
 diff btw local and remote 2
+new line with new feature branch 1
