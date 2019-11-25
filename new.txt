@@ -8,3 +8,4 @@ diff for staging nd commit
 diff for staging and commit 1
 diff btw commits
 diff btw commits 1
+diff btw local and remote 1
