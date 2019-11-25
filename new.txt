@@ -5,3 +5,4 @@ diff for staging
 diff for work and commit area
 diff for work and commit area1
 diff for staging nd commit
+diff for staging and commit 1
